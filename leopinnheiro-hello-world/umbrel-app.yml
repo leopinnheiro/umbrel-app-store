@@ -1,30 +1,24 @@
 manifestVersion: 1
 id: leopinnheiro-hello-world
 name: pgAdmin 4
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+tagline: Testing
+icon: https://raw.githubusercontent.com/leopinnheiro/umbrel-app-store/master/leopinnheiro-hello-world/assets/logo.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 5080
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+Welcome to pgAdmin 4. pgAdmin is the leading Open Source management tool for Postgres, the world's most advanced Open Source database. pgAdmin 4 is designed to meet the needs of both novice and experienced Postgres users alike, providing a powerful graphical interface that simplifies the creation, maintenance and use of database objects.
+developer: pgAdmin
+website: https://www.pgadmin.org
+submitter: LeoPinnheiro
+submission: https://github.com/leopinnheiro/umbrel-app-store
+repo: https://github.com/leopinnheiro/umbrel-app-store
+support: https://github.com/leopinnheiro/umbrel-app-store/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://raw.githubusercontent.com/leopinnheiro/umbrel-app-store/master/leopinnheiro-hello-world/assets/gallery-1.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Testing
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
+defaultUsername: "admin"
+defaultPassword: "changeme"
