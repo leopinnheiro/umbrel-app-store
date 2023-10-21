@@ -25,5 +25,5 @@ releaseNotes: >-
   [EN] Adding an application.
 dependencies: []
 path: ""
-defaultUsername: "admin"
+defaultUsername: "admin@admin.com"
 defaultPassword: "changeme"
