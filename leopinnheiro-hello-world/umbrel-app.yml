@@ -20,8 +20,10 @@ support: https://github.com/leopinnheiro/umbrel-app-store/issues
 gallery:
   - https://raw.githubusercontent.com/leopinnheiro/umbrel-app-store/master/leopinnheiro-hello-world/assets/gallery-1.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  [PT-BR] Adicionando aplicação.
+
+  [EN] Adding an application.
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
+defaultUsername: "admin"
+defaultPassword: "changeme"
