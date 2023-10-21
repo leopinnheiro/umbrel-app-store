@@ -2,7 +2,7 @@ manifestVersion: 1
 id: leopinnheiro-pgadmin4
 name: pgAdmin 4
 tagline:
-icon: https://raw.githubusercontent.com/leopinnheiro/umbrel-app-store/master/leopinnheiro-hello-world/assets/logo.svg
+icon: https://svgshare.com/i/ykn.svg
 category: Development
 version: "1.0.0"
 port: 80
