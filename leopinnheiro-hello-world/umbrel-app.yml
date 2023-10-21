@@ -8,14 +8,15 @@ version: "1.0.0"
 port: 5080
 description: >-
   [PT-BR] Seja bem-vindo ao pgAdmin 4. O pgAdmin é a principal ferramenta de gerenciamento de código aberto para o Postgres, o banco de dados de código aberto mais avançado do mundo. O pgAdmin 4 foi projetado para atender às necessidades tanto de usuários iniciantes quanto experientes do Postgres, fornecendo uma poderosa interface gráfica que simplifica a criação, manutenção e utilização de objetos de banco de dados.
-  -
+
+
   [EN] Welcome to pgAdmin 4. pgAdmin is the leading Open Source management tool for Postgres, the most advanced Open Source database. pgAdmin 4 is designed to meet the needs of both novice and experienced Postgres users alike, providing a powerful graphical interface that simplifies the creation, maintenance, and use of database objects.
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: LeoPinnheiro
+website: https://github.com/leopinnheiro
+submitter: LeoPinnheiro
+submission: https://github.com/leopinnheiro/umbrel-app-store
+repo: https://github.com/leopinnheiro/umbrel-app-store
+support: https://github.com/leopinnheiro/umbrel-app-store/issues
 gallery:
   - https://raw.githubusercontent.com/leopinnheiro/umbrel-app-store/master/leopinnheiro-hello-world/assets/gallery-1.jpeg
 releaseNotes: >-
