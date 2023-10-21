@@ -2,7 +2,7 @@ manifestVersion: 1
 id: leopinnheiro-hello-world
 name: pgAdmin 4
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://raw.githubusercontent.com/leopinnheiro/umbrel-app-store/master/leopinnheiro-hello-world/assets/logo.svg
 category: Development
 version: "1.0.0"
 port: 4000
@@ -16,9 +16,7 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://raw.githubusercontent.com/leopinnheiro/umbrel-app-store/master/leopinnheiro-hello-world/assets/gallery-1.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
