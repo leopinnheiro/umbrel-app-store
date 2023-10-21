@@ -5,7 +5,7 @@ services:
   app_proxy:
     environment:
       APP_HOST: leopinnheiro-pgadmin4_server_1
-      APP_PORT: 5080
+      APP_PORT: 80
     
   server:
     container_name: pgadmin4

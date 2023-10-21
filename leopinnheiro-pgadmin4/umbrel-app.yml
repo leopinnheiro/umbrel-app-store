@@ -5,7 +5,7 @@ tagline:
 icon: https://svgshare.com/i/ykn.svg
 category: Development
 version: "1.0.0"
-port: 80
+port: 5080
 description: >-
   [PT-BR] Seja bem-vindo ao pgAdmin 4. O pgAdmin é a principal ferramenta de gerenciamento de código aberto para o Postgres, o banco de dados de código aberto mais avançado do mundo. O pgAdmin 4 foi projetado para atender às necessidades tanto de usuários iniciantes quanto experientes do Postgres, fornecendo uma poderosa interface gráfica que simplifica a criação, manutenção e utilização de objetos de banco de dados.
 
