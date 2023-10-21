@@ -4,11 +4,17 @@ services:
 
   app_proxy:
     environment:
-      # The format here is: <app-id>_<docker-service-name>_1
       APP_HOST: leopinnheiro-pgadmin4_server_1
       APP_PORT: 5080
     
   server:
-    image: getumbrel/community-app-store-hello-world:latest
-    user: "1000:1000"
-    init: true
+    container_name: pgadmin4
+    image: 'dpage/pgadmin4:latest'
+    restart: on-failure
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin
+      - PGADMIN_DEFAULT_PASSWORD=changeme
+    volumes:
+      - ${APP_DATA_DIR}/data:/var/lib/pgadmin
+    ports:
+      - '5080:80'
